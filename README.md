@@ -8,7 +8,7 @@ Este repositorio forma parte de mi progreso en el curso **Python Essentials 1** 
 
 ## 🚀 Características
 
-- Juego para dos jugadores (o contra la CPU, según implementación).
+- Juego contra la CPU (Human vs Computer).
 - Lógica de validación de movimientos.
 - Detección automática de ganador o empate.
 - Interfaz de consola simple e intuitiva.
